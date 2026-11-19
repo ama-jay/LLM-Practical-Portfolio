@@ -12,7 +12,7 @@
 
 
 
-!\[Original and Preprocessed Text](Screenshots/01\_text\_preprocessing.png)
+![Original and Preprocessed Text](Screenshots/01_text_preprocessing.png)
 
 
 
@@ -80,7 +80,7 @@ F1-score (78.11%) : This combined measure balances precision and recall.
 
 
 
-!\[Confusion Matrix](Screenshots/06\_confusion\_matrix.png)
+![Confusion Matrix](Screenshots/06_confusion_matrix.png)
 
 
 
