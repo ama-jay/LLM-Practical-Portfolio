@@ -30,7 +30,7 @@
 
 * Positive reviews frequently contained words such as great, good, and best, while bad appeared frequently in negative reviews. 
 
-
+![word frequency](Screenshots/03_word_frequency.png)
 
 
 
