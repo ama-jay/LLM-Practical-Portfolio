@@ -1,4 +1,4 @@
-### **Lab 02 – AI in everyday challenges**
+### **Lab 02 – AI in everyday challenges - 03/10/2026**
 
 
 
@@ -43,7 +43,7 @@ Students earn EcoPoints by completing verified plastic saving actions, such as u
 
 
 
-Ex:  Use a reusable coffee cup  +5 , 
+Ex:  Use a reusable coffee cup  +5 ,
 Purchase a single use plastic bottle  0
 
 
@@ -68,8 +68,4 @@ The proposed system includes an AI powered Eco Assistant that provides,
 
 
 Concept put 0 rewards to students who did not attend university, so they not receive rewards without actively reducing plastic consumption.
-
-
-
-
 
