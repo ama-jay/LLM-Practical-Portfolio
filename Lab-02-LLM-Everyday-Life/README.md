@@ -43,7 +43,7 @@ Students earn EcoPoints by completing verified plastic saving actions, such as u
 
 
 
-Ex:  Use a reusable coffee cup  +5
+Ex:  Use a reusable coffee cup  +5 , 
 Purchase a single use plastic bottle  0
 
 
@@ -71,7 +71,5 @@ Concept put 0 rewards to students who did not attend university, so they not rec
 
 
 
-!\[EcoReward Product Concept](screenshots/Visual prototype.png)
-
-
+!\[EcoReward Product Concept](screenshots/Visual%20prototype.png)
 
