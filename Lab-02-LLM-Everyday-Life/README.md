@@ -71,5 +71,5 @@ Concept put 0 rewards to students who did not attend university, so they not rec
 
 
 
-!\[EcoReward Product Concept](screenshots/Visual-prototype.png)
+
 
