@@ -14,7 +14,7 @@
 
 
 
-!\[Dataset Distribution](results/01\_Dataset\_exploration.png)
+![Dataset Distribution](results/01_Dataset_exploration.png)
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-!\[Tokenization](results/Tokenization.png)
+![Tokenization](results/Tokenization.png)
 
 
 
@@ -47,7 +47,7 @@
 
 
 
-!\[Training Sequences](results/03\_Input\_and\_target\_sequences.png)
+![Training Sequences](results/03\_Input\_and\_target\_sequences.png)
 
 
 
@@ -71,7 +71,7 @@
 
 
 
-!\[Model Architecture](results/04 \_Model\_architecture.png)
+![Model Architecture](results/04 \_Model\_architecture.png)
 
 
 
@@ -93,9 +93,9 @@
 
 
 
-!\[Training Loss](results/05\_Training\_loss\_curves.png)
+![Training Loss](results/05\_Training\_loss\_curves.png)
 
-!\[Initial Evaluation](results/06\_initial\_evaluation.png)
+![Initial Evaluation](results/06\_initial\_evaluation.png)
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-!\[Initial Story](results/09\_initial\_story.png)
+![Initial Story](results/09\_initial\_story.png)
 
 
 
@@ -138,9 +138,9 @@
 
 
 
-!\[Additional Training](results/07\_Additional\_training.png)
+![Additional Training](results/07\_Additional\_training.png)
 
-!\[Final Evaluation](results/08\_final\_evaluation.png)
+![Final Evaluation](results/08\_final\_evaluation.png)
 
 
 
@@ -152,7 +152,7 @@
 
 
 
-!\[Improved Story](results/10\_improved\_story.png)
+![Improved Story](results/10\_improved\_story.png)
 
 
 
@@ -175,9 +175,9 @@
 
 
 
-!\[Model Comparison](results/11\_model\_comparison.png)
+![Model Comparison](results/11\_model\_comparison.png)
 
-!\[Three Layer Story](results/12\_three\_layer\_story.png)
+![Three Layer Story](results/12\_three\_layer\_story.png)
 
 
 
@@ -202,7 +202,7 @@
 
 
 
-\[Trained Model](results/tiny\_transformer\_model.pth)
+[Trained Model](results/tiny\_transformer\_model.pth)
 
 
 
@@ -214,7 +214,7 @@
 
 
 
-!\[Gradio Interface](results/13\_gradio\_chatbot.png)
+![Gradio Interface](results/13\_gradio\_chatbot.png)
 
 
 
