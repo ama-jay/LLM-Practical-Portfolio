@@ -71,7 +71,7 @@
 
 
 
-![Model Architecture](results/04 \_Model\_architecture.png)
+![Model Architecture](results/04 _Model_architecture.png)
 
 
 
