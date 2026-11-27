@@ -179,3 +179,4 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+Lab-03-Tiny-Transformer/results/04 _Model_architecture.png
